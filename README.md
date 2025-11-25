@@ -1,4 +1,3 @@
-# flutter-getx-language-translate
 
 # GetX Internationalization Demo
 
